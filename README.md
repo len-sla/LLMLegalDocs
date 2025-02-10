@@ -43,16 +43,26 @@ you could look at content of freie_mitarbeit_vertrag-gen.ipynb.
 But after first round everything fall into place 
 
 ```
-...Der Mieter ist berechtigt, die Wohnung gemäß dem vertraglich vereinbarten Zweck, nämlich zu Wohnzwecken, zu nutzen. Jede andere Nutzung der Wohnung bedarf der ausdrücklichen schriftlichen Zustimmung des Vermieters.' reasoning='Diese Klausel definiert den Mietgegenstand klar und grenzt den Gebrauch auf den vertraglich vereinbarten Zweck ein, um potenzielle Konflikte über die Nutzung ...
+...Der Mieter ist berechtigt, die Wohnung gemäß dem vertraglich vereinbarten Zweck, nämlich zu Wohnzwecken,
+ zu nutzen. Jede andere Nutzung der Wohnung bedarf der ausdrücklichen schriftlichen Zustimmung des Vermieters.
+' reasoning='Diese Klausel definiert den Mietgegenstand klar und grenzt den Gebrauch auf den vertraglich vereinbarten Zweck ein,
+ um potenzielle Konflikte über die Nutzung ...
 ```
  you could follow reasoning also with links given to BGB
 like:
 ```
-Um die vollständige Rechtssicherheit zu gewähren, sollten die Vertragsparteien darauf achten, dass keine faktischen Umstände der Ausführung die selbstständige Natur von Punkt 1 in Frage stellen. Weitere Details und Erläuterungen in § 611 ff. BGB verfügbar: https://www.gesetze-im-internet.de/bgb/__611a.html  ...
+Um die vollständige Rechtssicherheit zu gewähren,
+ sollten die Vertragsparteien darauf achten,
+ dass keine faktischen Umstände der Ausführung die selbstständige Natur von Punkt 1 in Frage stellen.
+ Weitere Details und Erläuterungen in § 611 ff. BGB verfügbar: https://www.gesetze-im-internet.de/bgb/__611a.html  ...
 
 or
 
-8. Salvatorische Klausel (§ 7): Diese ist rechtlich unbedenklich, gewährleistet jedoch, dass der Vertrag nicht komplett ungültig wird, wenn eine Klausel unwirksam ist.\n\nUm die vollständige Rechtssicherheit zu gewähren, sollten die Vertragsparteien darauf achten, dass keine faktischen Umstände der Ausführung die selbstständige Natur von Punkt 1 in Frage stellen. Weitere Details und Erläuterungen in § 611 ff. BGB verfügbar: https://www.gesetze-im-internet.de/bgb/__611a.html'
+8. Salvatorische Klausel (§ 7): Diese ist rechtlich unbedenklich, gewährleistet jedoch,
+ dass der Vertrag nicht komplett ungültig wird, wenn eine Klausel unwirksam ist.
+\n\nUm die vollständige Rechtssicherheit zu gewähren, sollten die Vertragsparteien darauf achten,
+ dass keine faktischen Umstände der Ausführung die selbstständige Natur von Punkt 1 in Frage stellen.
+Weitere Details und Erläuterungen in § 611 ff. BGB verfügbar: https://www.gesetze-im-internet.de/bgb/__611a.html'
 ```
 https://www.gesetze-im-internet.de/bgb/__611a.html
 
