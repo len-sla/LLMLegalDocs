@@ -214,7 +214,7 @@ Unterschrift Auftragnehmer: ___________________
 lencz.sla@gmail.com
 
 
-## Useful Resources  
+#### Useful Resources  
 - **Pydantic Docs**: [https://docs.pydantic.dev](https://docs.pydantic.dev)  
 - **Example of Using Pydantic with LLMs**: [GitHub Repo](https://github.com/pydantic/pydantic) 
 - **FastAPI + Pydantic for AI Applications**: [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/body/)   
