@@ -217,5 +217,4 @@ lencz.sla@gmail.com
 ## Useful Resources  
 - **Pydantic Docs**: [https://docs.pydantic.dev](https://docs.pydantic.dev)  
 - **Example of Using Pydantic with LLMs**: [GitHub Repo](https://github.com/pydantic/pydantic) 
-- **FastAPI + Pydantic for AI Applications**: [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/body/)  
-- **Handling LLM Outputs with Pydantic**: [Blog Post](https://sebastianraschka.com/blog/2023/llm-data-validation.html)  
+- **FastAPI + Pydantic for AI Applications**: [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/body/)   
