@@ -67,7 +67,7 @@ Weitere Details und Erläuterungen in § 611 ff. BGB verfügbar: https://www.ges
 https://www.gesetze-im-internet.de/bgb/__611a.html
 
 
-and at the end  result was like follows:
+and at the end  result was like follows: <\p>
 https://github.com/len-sla/LLMLegalDocs/blob/main/Firma_XYZ_GmbH_2025-02-10_11-28-29.md
 
 ---
